@@ -1,0 +1,36 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/InterSemiBold.ttf"); font-family : "Inter"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterLight.ttf"); font-family : "Inter"; font-weight : 300;  }
+ @font-face { font-style : bold; src: url("assets/fonts/WorkSansMedium.ttf"); font-family : "Work Sans"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/WorkSansRegular.ttf"); font-family : "Work Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/WorkSansSemiBold.ttf"); font-family : "Work Sans"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/WorkSansRomanBold.ttf"); font-family : "Work Sans"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PoppinsSemiBold.ttf"); font-family : "Poppins"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PoppinsMedium.ttf"); font-family : "Poppins"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/PTSansRegular.ttf"); font-family : "PT Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/PoppinsRegular.ttf"); font-family : "Poppins"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PoppinsBold.ttf"); font-family : "Poppins"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/MontserratBold.ttf"); font-family : "Montserrat"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/MontserratRegular.ttf"); font-family : "Montserrat"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/MontserratRomanRegular.ttf"); font-family : "Montserrat"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/MontserratMedium.ttf"); font-family : "Montserrat"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/WorkSansBold.ttf"); font-family : "Work Sans"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/WorkSansRomanRegular.ttf"); font-family : "Work Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/WorkSansRomanSemiBold.ttf"); font-family : "Work Sans"; font-weight : 600;  }
+ @font-face { font-style : normal; src: url("assets/fonts/OpenSansRomanRegular.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/OpenSansRegular.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OpenSansRomanSemiBold.ttf"); font-family : "Open Sans"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoLight.ttf"); font-family : "Roboto"; font-weight : 300;  }
+ @font-face { font-style : bold; src: url("assets/fonts/DMSansMedium.ttf"); font-family : "DM Sans"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/DMSansRegular.ttf"); font-family : "DM Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/LatoBold.ttf"); font-family : "Lato"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/DMSansBold.ttf"); font-family : "DM Sans"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/CabinRegular.ttf"); font-family : "Cabin"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/CabinSemiBold.ttf"); font-family : "Cabin"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/ManropeBold.ttf"); font-family : "Manrope"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterThin.ttf"); font-family : "Inter"; font-weight : 100;  }
